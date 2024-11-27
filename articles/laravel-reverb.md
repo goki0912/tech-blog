@@ -9,6 +9,7 @@ publication_name: "sdb_blog"
 ---
 
 :::message
+[Laravel Advent Calendar 2024](https://qiita.com/advent-calendar/2024/laravel)
 [Social Databank Advent Calendar 2024](https://qiita.com/advent-calendar/2024/sdb_blog) の4日目です。
 :::
 
